@@ -1,0 +1,14 @@
+﻿Action Results:
+
+SN		Type				Helper Method 
+--		----				-------------
+1	ActionResult			All Methods allowed.
+2	ViewResult				View()
+3	PartialViewResult		PartialView()
+4	ContentResult			Content()				HTML content --> Content("Hello World");
+5	RedirectResult			Redirect()
+6	RedirectToRouteResult	RedirectToAction()
+7	JsonResult				Json()
+8	FileResult				File()
+9	HttpNotFoundResult		HttpNotFound()
+10	EmptyResult					-	
